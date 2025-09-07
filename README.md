@@ -75,7 +75,9 @@
 - 🏅 Strong in **DSA, OS & DBMS** fundamentals
 
 <p align="center">
-   <img src="https://leetcard.jacoblin.cool/sshashank011?theme=dark&font=Fira%20Code&ext=heatmap" />
+   <a href="https://leetcode.com/u/shashank_2211780/">
+      <img src="https://leetcard.jacoblin.cool/shashank_2211780?theme=dark&font=Fira%20Code&ext=heatmap" />
+   </a>
 </p>
 
 ---
@@ -99,11 +101,8 @@
    <a href="https://github.com/sshashank011">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
    </a>
-   <a href="https://leetcode.com/u/sshashank011/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-   </a>
    <a href="https://leetcode.com/u/shashank_2211780/">
-      <img src="https://img.shields.io/badge/LeetCode-2211780-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
    </a>
    <a href="https://codeforces.com/profile/ayush-018">
       <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
