@@ -95,22 +95,6 @@
 </ul>
 </td>
 
-
-<tr>
-<td width="50%">
-<h3 align="center">🔥 Forest Fire Detection System</h3>
-<p align="center">
-   <img src="https://images.unsplash.com/photo-1473773508845-188df298d2d1?w=500" width="250" alt="Forest Fire Detection System Preview">
-</p>
-<ul>
-   <li>AI & IoT-based real-time fire detection</li>
-   <li>85% detection accuracy with instant alerts</li>
-   <li>Stack: Python, OpenCV, TensorFlow, Arduino, ESP32</li>
-</ul>
-</td>
-</tr>
-
-
 <tr>
 <td width="50%">
 <h3 align="center">🎮 Simon Game</h3>
