@@ -116,8 +116,6 @@
 <h3 align="center">🎮 Simon Game</h3>
 <p align="center">
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9zqBat_6h80nwCNAvaZK1N09_gbbmhl64GLvOD8zKRA&s=10" width="250" alt="Simon Game Preview">
-   &nbsp;&nbsp;
-   <img src="https://raw.githubusercontent.com/kriscfoster/simon-game/master/demo.gif" width="250" alt="Simon Game Demo">
 </p>
 <ul>
    <li>Browser-based <b>memory game</b> with adaptive difficulty</li>
