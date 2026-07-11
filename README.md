@@ -126,6 +126,22 @@
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🐉 Dragon Repeller RPG</h3>
+<p align="center">
+   <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?w=500" width="250" alt="Dragon Repeller Preview">
+</p>
+<ul>
+   <li>Text-based RPG adventure game</li>
+   <li>Fight monsters, earn gold & upgrade weapons</li>
+   <li>Stack: HTML, CSS, JavaScript</li>
+</ul>
+</td>
+</tr>
+</table>
+
 <hr>
 
 <!-- ================== CERTIFICATIONS ================== -->
