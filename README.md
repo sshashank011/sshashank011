@@ -115,7 +115,7 @@
 <td width="50%">
 <h3 align="center">🎮 Simon Game</h3>
 <p align="center">
-   <img src="https://play-lh.googleusercontent.com/btmiVMnd5LX1WBwXb05KtldXOxl2jAZdTiSBYK7q9axogrV8XqCO-zUGg5bt7n1V2i1M1XrqRRfeECMyyE37yA=w526-h296-rw" width="250" alt="Simon Game Preview">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9zqBat_6h80nwCNAvaZK1N09_gbbmhl64GLvOD8zKRA&s=10" width="250" alt="Simon Game Preview">
    &nbsp;&nbsp;
    <img src="https://raw.githubusercontent.com/kriscfoster/simon-game/master/demo.gif" width="250" alt="Simon Game Demo">
 </p>
@@ -134,7 +134,7 @@
 <td width="50%">
 <h3 align="center">🐉 Dragon Repeller RPG</h3>
 <p align="center">
-   <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?w=500" width="250" alt="Dragon Repeller Preview">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLyDlOelagC33XAolQk4QLoNEKnJdt0EbRLoOZJe1dDQ&s=10" width="250" alt="Dragon Repeller Preview">
 </p>
 <ul>
    <li>Text-based RPG adventure game</li>
