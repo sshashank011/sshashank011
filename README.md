@@ -95,7 +95,7 @@
 </ul>
 </td>
 
-<table>
+
 <tr>
 <td width="50%">
 <h3 align="center">🔥 Forest Fire Detection System</h3>
@@ -109,7 +109,8 @@
 </ul>
 </td>
 </tr>
-</table>
+
+
 <tr>
 <td width="50%">
 <h3 align="center">🎮 Simon Game</h3>
@@ -126,9 +127,9 @@
 </ul>
 </td>
 </tr>
-</table>
 
-<table>
+
+
 <tr>
 <td width="50%">
 <h3 align="center">🐉 Dragon Repeller RPG</h3>
