@@ -95,19 +95,21 @@
 </ul>
 </td>
 
+<table>
+<tr>
 <td width="50%">
-<h3 align="center">🌲 Forest Fire Detection System</h3>
+<h3 align="center">🔥 Forest Fire Detection System</h3>
 <p align="center">
-   <img src="https://cdn-0.extrudesign.com/wp-content/uploads/2021/02/Fire-Detection-in-Forest-extrudesign.com-SC20021-010.jpg" width="250" alt="Forest Fire Detection Preview">
+   <img src="https://images.unsplash.com/photo-1473773508845-188df298d2d1?w=500" width="250" alt="Forest Fire Detection System Preview">
 </p>
 <ul>
-   <li>85% detection accuracy</li>
-   <li>IoT + ML with MQ sensors & Arduino</li>
-   <li>False alarms reduced by 40%</li>
+   <li>AI & IoT-based real-time fire detection</li>
+   <li>85% detection accuracy with instant alerts</li>
+   <li>Stack: Python, OpenCV, TensorFlow, Arduino, ESP32</li>
 </ul>
 </td>
 </tr>
-
+</table>
 <tr>
 <td width="50%">
 <h3 align="center">🎮 Simon Game</h3>
