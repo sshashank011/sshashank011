@@ -125,6 +125,24 @@
 </ul>
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">✨ Interactive Registration Form</h3>
+
+<p align="center">
+    <img src="assets/home.png" width="250" alt="Interactive Registration Form">
+</p>
+
+<ul>
+    <li>🎨 Modern Glassmorphism UI with responsive design.</li>
+    <li>🔐 Live validation, password strength meter & image preview.</li>
+    <li>💻 Built using <b>HTML5, CSS3 & JavaScript</b>.</li>
+</ul>
+
+</td>
+</tr>
+</tr>
 </table>
 
 <hr>
