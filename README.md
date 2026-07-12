@@ -131,7 +131,7 @@
 <h3 align="center">✨ Interactive Registration Form</h3>
 
 <p align="center">
-    <img src="assets/home.png" width="250" alt="Interactive Registration Form">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTzH34V_GxX_b-ZCs8D_EhKsYyx9dgZ_OPCe-hWc8tg&s=10" width="250" alt="Interactive Registration Form">
 </p>
 
 <ul>
